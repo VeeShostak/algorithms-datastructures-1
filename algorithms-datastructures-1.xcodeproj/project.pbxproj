@@ -29,7 +29,7 @@
 		F283E9271FAF795F00375DC6 /* balanced-bracket.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "balanced-bracket.cpp"; sourceTree = "<group>"; };
 		F283E9291FAF812400375DC6 /* remove-duplicates-inArrList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "remove-duplicates-inArrList.cpp"; sourceTree = "<group>"; };
 		F283E92A1FAF85C700375DC6 /* get-items-appear-once-arr.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "get-items-appear-once-arr.cpp"; sourceTree = "<group>"; };
-		F283E92C1FAF869300375DC6 /* find-substring.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "find-substring.cpp"; sourceTree = "<group>"; };
+		F283E92C1FAF869300375DC6 /* find-subsequence.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "find-subsequence.cpp"; sourceTree = "<group>"; };
 		F283E92D1FAF86CE00375DC6 /* longest-palindrome.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "longest-palindrome.cpp"; sourceTree = "<group>"; };
 		F283E92E1FAF872100375DC6 /* prefixToPostFix.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = prefixToPostFix.cpp; sourceTree = "<group>"; };
 		F283E92F1FAF875200375DC6 /* negative-onLeft-pos-onRight.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "negative-onLeft-pos-onRight.cpp"; sourceTree = "<group>"; };
@@ -92,7 +92,7 @@
 			children = (
 				F283E92F1FAF875200375DC6 /* negative-onLeft-pos-onRight.cpp */,
 				F283E92D1FAF86CE00375DC6 /* longest-palindrome.cpp */,
-				F283E92C1FAF869300375DC6 /* find-substring.cpp */,
+				F283E92C1FAF869300375DC6 /* find-subsequence.cpp */,
 				F283E92E1FAF872100375DC6 /* prefixToPostFix.cpp */,
 			);
 			path = "algorithms-2";
